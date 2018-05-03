@@ -1,0 +1,25 @@
+{
+  "name": "@vellabanda/add-number",
+  "version": "1.0.6",
+  "description": "This module add's number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishwaryapatwardhan/add-number.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Aishwarya Patwardhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aishwaryapatwardhan/add-number/issues"
+  },
+  "homepage": "https://github.com/aishwaryapatwardhan/add-number#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
